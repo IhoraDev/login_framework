@@ -1,0 +1,21 @@
+{
+  "name": "login framework",
+  "version": "0.0.1",
+  "description": "This is login test automation framework.",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.7.4",
+    "@wdio/mocha-framework": "^7.7.4",
+    "@wdio/spec-reporter": "^7.7.3",
+    "chai": "^3.5.0",
+    "chromedriver": "^94.0.0",
+    "mocha": "^2.5.3",
+    "selenium-webdriver": "^3.6.0",
+    "wdio-chromedriver-service": "^7.1.0"
+  },
+  "dependencies": {
+    "selenium-webdriver-selector": "^1.0.3"
+  }
+}
