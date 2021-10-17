@@ -1,7 +1,4 @@
-# login_framework
-This is login test automation framework.
+## HOW RUN PROJECT
 
-## Run testing
-npm run node_modules/mocha/bin/mocha
-or
-run script from package.json file
+- "npm install" or "npm i"
+- "npm run test" or use scripts in "package.json" file
